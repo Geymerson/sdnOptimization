@@ -5,9 +5,11 @@ CONFIG -= qt
 
 SOURCES += \
         enb.cpp \
+        instancer.cpp \
         main.cpp \
         ue.cpp
 
 HEADERS += \
     enb.h \
+    instancer.h \
     ue.h
